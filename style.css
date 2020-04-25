@@ -27,9 +27,13 @@ img
 }
 
 
-
+div #details{
+ 
+  display: block;
+  
+}
 div{
-  float: right;
+  float: left;
   background-color: red;
   text-align: center;
   width: 25%;

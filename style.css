@@ -15,7 +15,8 @@ a{
  background-color: grey;
 }
 .textclass{
-  text-align: center
+  text-align: center;
+  padding-right: 10px;
 }
 img
   {
